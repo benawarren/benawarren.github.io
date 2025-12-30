@@ -25,7 +25,7 @@ On public safety
 
 ---
 
-For The Wall Street Journal:
+For ***The Wall Street Journal:***
 - [**Legal Marijuana Contains Dangerous Mold. States Approve Its Sale Anyway.**](https://www.wsj.com/health/healthcare/marijuana-mold-contaminants-safety-a172c230)
 - [**College Divide Erodes Democrats' Support from Black and Hispanic Americans**](https://www.wsj.com/politics/elections/democrats-college-educated-voters-election-2024-fd0a3917)
 - [**Elon Musk's Hard Turn to the Right in 300,000 of His Own Words**](https://www.wsj.com/tech/elon-musk-politics-trump-social-media-267d34c8)
