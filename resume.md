@@ -1,3 +1,8 @@
+---
+layout: page
+title: Résumé
+---
+
 **Data Reporter,** *The Detroit News*
 
 *[Jun 2025 - Present]*
