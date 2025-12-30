@@ -1,1 +1,6 @@
-theme: jekyll-theme-minima
+title: Your Name
+description: Journalist | Data Reporter | Visual Storyteller
+
+theme: minima
+
+markdown: kramdown
