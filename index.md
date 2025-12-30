@@ -8,4 +8,8 @@ title: Home
 
 I’m a journalist focused on housing, history, and data-driven reporting.
 
-[View my work →](/portfolio)
+[Porfolio →](/portfolio)
+
+[Résumé →](/resume)
+
+[Data viz →](/dataviz) 
