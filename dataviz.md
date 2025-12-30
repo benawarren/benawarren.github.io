@@ -1,3 +1,8 @@
+---
+layout: page
+title: Data Viz
+---
+
 **Enrollment loss in rural school districts:**
 
 <div style="max-width:900px; margin: 2rem auto;">
