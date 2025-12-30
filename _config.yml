@@ -5,10 +5,6 @@ theme: minima
 
 markdown: kramdown
 
-author:
-  name: Ben Warren
-  email: bwarren@detroitnews.com
-
 minima:
   social_links:
     - { platform: github,  user_url: "https://github.com/benawarren"}
