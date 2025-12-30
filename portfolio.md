@@ -1,8 +1,3 @@
----
-layout: page
-title: Portfolio
----
-
 **For *The Detroit News:***
 
 On immigration
