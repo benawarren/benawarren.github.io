@@ -18,6 +18,5 @@ minima:
 header_pages:
   - index.md
   - portfolio.md
-  - about.md
   - resume.md
   - dataviz.md
