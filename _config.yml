@@ -1,6 +1,23 @@
-title: Your Name
+title: Ben Warren
 description: Journalist | Data Reporter | Visual Storyteller
 
 theme: minima
 
 markdown: kramdown
+
+author:
+  name: Ben Warren
+  email: bwarren@detroitnews.com
+
+minima:
+  social_links:
+    - { platform: github,  user_url: "https://github.com/benawarren"}
+    - { platform: twitter, user_url: "https://twitter.com/ben_warren03"}
+    - { platform: linkedin, user_url: "www.linkedin.com/in/benawarren"}
+
+header_pages:
+  - index.md
+  - portfolio.md
+  - about.md
+  - resume.md
+  - dataviz.md
