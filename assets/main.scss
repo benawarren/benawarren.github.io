@@ -1,0 +1,31 @@
+.portfolio-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .portfolio-card {
+    flex: 1 1 320px;
+    border: 1px solid #e5e5e5;
+    border-radius: 10px;
+    padding: 18px;
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+    background: #fff;
+  }
+  
+  .portfolio-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+  }
+  
+  .portfolio-card a {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  .portfolio-meta {
+    font-size: 12px;
+    color: #666;
+    margin-bottom: 8px;
+    letter-spacing: 0.03em;
+  }
