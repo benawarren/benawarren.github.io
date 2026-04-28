@@ -79,6 +79,9 @@ title: My Work
   </div>
 </div>
 
+<br>
+<br>
+
 <h2>The Wall Street Journal</h2>
 <div class="portfolio-grid">
     <div class="portfolio-card">
