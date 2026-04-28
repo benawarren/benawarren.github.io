@@ -9,6 +9,6 @@ Before coming to Detroit, I reported for [*The Wall Street Journal*](https://www
 
 I’m an alum of [Dickinson College](https://www.dickinson.edu/news/article/5128/student_snapshot_ben_warren_25) in Carlisle, PA, where I studied data analytics and history.
 
-When I'm not coding or writing, I can often be found birding or tearing my hear out over the state of Philadelphia sports.
+When I'm not coding or writing, I can often be found birding or tearing my hair out over the state of Philadelphia sports.
 
 You can reach me at [bwarren[at]detroitnews.com](mailto:bwarren@detroitnews.com).
