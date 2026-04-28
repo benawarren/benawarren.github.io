@@ -1,3 +1,8 @@
+---
+layout: page
+title: Work
+---
+
 **For *The Detroit News:***
 
 On immigration
