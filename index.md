@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+title: About Me
 ---
 
 I’m a data reporter at *The Detroit News*, where I’ve covered issues like racial disparities in drug overdose deaths, immigration enforcement in Michigan, and Detroit’s 2025 mayoral election. 
@@ -8,5 +8,7 @@ I’m a data reporter at *The Detroit News*, where I’ve covered issues like ra
 Before coming to Detroit, I reported for [*The Wall Street Journal*](https://www.wsj.com/news/author/ben-warren) and researched housing discrimination with the [Federal Reserve Bank of Philadelphia](https://www.philadelphiafed.org/surveys-and-data/consumer-finance-data/racial-covenants).
 
 I’m an alum of [Dickinson College](https://www.dickinson.edu/news/article/5128/student_snapshot_ben_warren_25) in Carlisle, PA, where I studied data analytics and history.
+
+When I'm not coding or writing, I can often be found birding or tearing my hear out over the state of Philadelphia sports.
 
 You can reach me at [bwarren[at]detroitnews.com](mailto:bwarren@detroitnews.com).
